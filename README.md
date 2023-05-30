@@ -12,6 +12,7 @@ import java.util.Arrays;
 import java.util.List;
 
 class User {
+
     String username;
     
     String password;
